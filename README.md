@@ -1,5 +1,7 @@
 # user_card
 
+![alt text](https://github.com/adnanganie/user-card/blob/dev/Screenshot_1.png)
+
 A new Flutter application.
 
 ## Getting Started
